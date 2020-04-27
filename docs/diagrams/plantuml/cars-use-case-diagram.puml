@@ -5,7 +5,7 @@ Cars - Use case diagram
 end title
 
 skinparam usecase {
-	BackgroundColor White
+	BackgroundColor STRATEGY
 	ArrowColor DarkSlateGray
 	BorderColor DarkSlateGray
 	ActorBorderColor Black
